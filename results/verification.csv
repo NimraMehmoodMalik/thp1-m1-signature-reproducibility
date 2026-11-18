@@ -1,0 +1,26 @@
+"check","expected","observed","ok"
+"genes tested in DE: GSE61298",19460,19460,TRUE
+"genes tested in DE: GSE57614",19553,19553,TRUE
+"genes tested in DE: GSE162698",11599,11599,TRUE
+"genes tested in DE: GSE157182",16256,16256,TRUE
+"genes tested in DE: GSE159112",12292,12292,TRUE
+"genes tested in DE: GSE234829",11257,11257,TRUE
+"genes tested in DE: E-MTAB-5917",21355,21355,TRUE
+"genes tested in DE: GSE181851",14928,14928,TRUE
+"primary meta: genes tested",13196,13196,TRUE
+"primary meta: core genes",1741,1741,TRUE
+"primary meta: core up",894,894,TRUE
+"primary meta: core down",847,847,TRUE
+"THP-1 meta: genes tested",12234,12234,TRUE
+"primary vs THP-1: genes in both",10434,10434,TRUE
+"class conserved",503,503,TRUE
+"class weaker_in_THP1",365,365,TRUE
+"class not_reproduced_in_THP1",543,543,TRUE
+"class opposite",29,29,TRUE
+"class THP1_specific",209,209,TRUE
+"equivalent (margin 1 log2)",130,130,TRUE
+"inconclusive (margin 1 log2)",1072,1072,TRUE
+"different (margin 1 log2)",238,238,TRUE
+"robust core genes",1238,1238,TRUE
+"Spearman primary vs THP-1 (3 decimals)",0.573,0.573,TRUE
+"Spearman primary vs Chen 2019 (3 decimals)",0.811,0.811,TRUE

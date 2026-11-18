@@ -1,0 +1,9 @@
+"dataset","type","core_genes_tested","spearman","same_direction_pct","slope"
+"GSE162698","primary (vs other 3)",1324,0.899,98.2,1.19
+"GSE157182","primary (vs other 3)",1598,0.882,96.9,0.86
+"GSE61298","primary (vs other 3)",1303,0.869,97.2,1.02
+"GSE57614","primary (vs other 3)",1610,0.783,92,0.54
+"E-MTAB-5917","THP-1 (vs primary meta)",1628,0.781,86.7,0.55
+"GSE181851","THP-1, LPS only (vs primary meta)",1552,0.686,79.8,0.73
+"GSE234829","THP-1 (vs primary meta)",1294,0.684,80.7,0.58
+"GSE159112","THP-1 (vs primary meta)",1458,0.649,81,0.7

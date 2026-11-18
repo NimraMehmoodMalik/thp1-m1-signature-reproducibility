@@ -1,0 +1,4 @@
+"analysis","primary_core","pct_conserved","pct_opposite"
+"THP-1 |log2FC| >= 1",1440,34.9,2
+"THP-1 |log2FC| >= 0.75",1440,44.6,2
+"THP-1 |log2FC| >= 0.5",1440,53.9,2

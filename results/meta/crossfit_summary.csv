@@ -1,0 +1,14 @@
+"measure","mean","min","max"
+"n_core_selected",1504.2,1169,1923
+"n_testable_in_THP1",1143.2,826,1534
+"mean_abs_logFC_selection",1.9,1.8,2.1
+"mean_logFC_estimation_same_sign",1.6,1.2,2.1
+"pct_same_direction_in_estimation_half",98.4,97.5,99.3
+"conserved_pct_naive",32.8,29.1,37.8
+"conserved_pct_crossfit",32.6,28.9,37.5
+"equiv_pct_naive",14,10.9,17.6
+"inconcl_pct_naive",70.8,66.9,73.9
+"diff_pct_naive",15.2,11.1,19.7
+"equiv_pct_crossfit",16.8,11.2,25.5
+"inconcl_pct_crossfit",70.9,63.9,78.3
+"diff_pct_crossfit",12.3,4.6,23.5

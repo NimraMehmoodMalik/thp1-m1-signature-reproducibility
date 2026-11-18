@@ -1,0 +1,7 @@
+"select_in","estimate_in","n_core_selected","n_testable_in_THP1","mean_abs_logFC_selection","mean_logFC_estimation_same_sign","pct_same_direction_in_estimation_half","conserved_pct_naive","conserved_pct_crossfit","equiv_pct_naive","inconcl_pct_naive","diff_pct_naive","equiv_pct_crossfit","inconcl_pct_crossfit","diff_pct_crossfit"
+"GSE61298+GSE57614","GSE162698+GSE157182",1635,1114,1.79,1.66,99.3,29.1,29.1,12.8,69.8,17.3,16.4,73.6,10
+"GSE162698+GSE157182","GSE61298+GSE57614",1269,1078,2.1,1.62,98,37.8,37.5,13.5,72.7,13.8,12.7,75.6,11.7
+"GSE61298+GSE162698","GSE57614+GSE157182",1923,1534,1.99,1.21,97.5,29.5,28.9,15.6,73.3,11.1,25.5,69.9,4.6
+"GSE57614+GSE157182","GSE61298+GSE162698",1169,826,1.81,2.07,99.3,37,36.9,13.3,66.9,19.7,12.6,63.9,23.5
+"GSE61298+GSE157182","GSE57614+GSE162698",1670,1229,1.97,1.56,97.5,32.8,32.8,10.9,73.9,15.2,11.2,78.3,10.5
+"GSE57614+GSE162698","GSE61298+GSE157182",1359,1078,1.89,1.58,98.6,30.8,30.7,17.6,68,14.4,22.5,63.9,13.5

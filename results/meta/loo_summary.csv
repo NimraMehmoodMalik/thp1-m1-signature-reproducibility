@@ -1,0 +1,5 @@
+"held_out","core_in_others","core_testable_in_held_out","spearman_all","sign_concordance_core","pct_core_sig_same_sign"
+"GSE61298",1318,1303,0.762,0.972,91.7
+"GSE57614",1626,1610,0.633,0.92,63.5
+"GSE162698",1582,1324,0.796,0.982,83.3
+"GSE157182",1756,1598,0.734,0.969,75.5
